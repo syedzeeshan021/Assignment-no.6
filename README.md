@@ -165,9 +165,3 @@ Create a custom exception `InvalidAgeError`. Write a function `check_age(age)` t
 **Assignment:**  
 Create a class `Countdown` that takes a start number. Implement `__iter__()` and `__next__()` to make the object iterable in a for-loop, counting down to 0.
 
-
-Once you are done submit this form ASAP:
-
-https://forms.gle/tS7C3sr55tUZ36GY8 
-
-Good luck! 🚀
